@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943637602081",
+    "project_id": "notify1-209b1",
+    "storage_bucket": "notify1-209b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943637602081:android:d39745d039e96649c62860",
+        "android_client_info": {
+          "package_name": "com.helmy.notify1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943637602081-ipbjnrg9dvletsdvppn81da7234acubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQRUwKszWJxx4EacBVU2bjtH6kYm3VjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943637602081-ipbjnrg9dvletsdvppn81da7234acubt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
